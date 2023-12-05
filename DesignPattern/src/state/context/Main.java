@@ -23,7 +23,7 @@ public class Main {
 		
 		context.setState(new MultipleOfTwoState());
 		context.generateRanNum();
-		
+		//ㅎㅇ
 	}
 
 	
